@@ -1,10 +1,10 @@
-h2{color: white;}
+h2{color: rgb(0, 0, 0);}
 body{}
 h4 {color: aqua;}
-p {color: rgb(235, 5, 139);
+p {color: rgb(5, 85, 235);
 border-width: 5px;
 border-style: dotted;
-border-color: rgb(180, 224, 20);}
-strong {color: rgb(255, 255, 255);}
-strong {color: white;}
+border-color: rgb(20, 224, 37);}
+strong {color: rgb(248, 0, 236);}
+strong {color: rgb(234, 0, 255);}
 a:hover{color: rgb(245, 8, 8);}
