@@ -1,0 +1,11 @@
+h2{color: white;}
+body{background-image: url(image.jpg) ;
+background-repeat: no-repeat;}
+h4 {color: aqua;}
+p {color: rgb(235, 5, 139);
+border-width: 5px;
+border-style: dotted;
+border-color: rgb(180, 224, 20);}
+strong {color: rgb(255, 255, 255);}
+strong {color: white;}
+a:hover{color: rgb(245, 8, 8);}
